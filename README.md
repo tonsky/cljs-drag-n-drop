@@ -61,7 +61,7 @@ Events always fire in that order:
 Run dev environment:
 
 ```
-lein fighweel
+lein figwheel
 ```
 
 Connect to http://localhost:8080
